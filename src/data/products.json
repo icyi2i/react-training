@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Tarzan the wonder car",
+        "code": "OPE-166",
+        "releaseDate": "Apr 23 2021 07:09:47 GMT+0530",
+        "price": 645.49,
+        "rating": 4.3,
+        "image": "https://m.media-amazon.com/images/I/61kSiIi2SKL._SY355_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bike head protector",
+        "code": "IOW-841",
+        "releaseDate": "Jan 24 2021 19:16:04 GMT+0530",
+        "price": 508.49,
+        "rating": 2.5,
+        "image": "https://m.media-amazon.com/images/I/61dJ4rpD6AL._SX425_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Automatic auto",
+        "code": "INT-504",
+        "releaseDate": "Dec 03 2020 13:19:13 GMT+0530",
+        "price": 329.49,
+        "rating": 3.8,
+        "image": "https://m.media-amazon.com/images/I/51uB7i1cw+L._SY355_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Blastoys",
+        "code": "FT-868",
+        "releaseDate": "Dec 15 2020 21:03:05 GMT+0530",
+        "price": 167.49,
+        "rating": 4,
+        "image": "https://m.media-amazon.com/images/I/71sBuH2ZuGL._AC_SX425_.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Busy bus",
+        "code": "BED-977",
+        "releaseDate": "Nov 20 2020 09:28:44 GMT+0530",
+        "price": 102.49,
+        "rating": 3.6,
+        "image": "https://m.media-amazon.com/images/I/61kHFl7bYRL._AC_SX425_.jpg"
+    }
+]

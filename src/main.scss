@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.col {
+    overflow: hidden;
+}
+
+.rating-star {
+    overflow: clip;
+    color: #fa4488;
+    padding: 0.25rem;
+}
